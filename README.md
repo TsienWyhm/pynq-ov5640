@@ -5,4 +5,8 @@
 
 
 原版本为pynq z2板子，成功移植到pynq z1，并且重新编辑引脚约束，可以正常使用
+
+
+
+
 如何操作可以参考我的博客https://blog.csdn.net/weixin_44304451/article/details/109838714
